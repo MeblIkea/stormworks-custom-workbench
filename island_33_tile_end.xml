@@ -232,9 +232,9 @@
 			<transform 00="0.669131" 01="0" 02="0.743145" 03="0" 10="0" 11="1" 12="0" 13="0" 20="-0.743145" 21="0" 22="0.669131" 23="0" 30="-160" 31="18" 32="-50" 33="1"/>
 			<size x="150" y="50" z="100"/>
 		</edit_area>
-		<edit_area id="train_edit" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="7" is_static="false" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
-			<transform 00="0.65953" 01="0" 02="0.751679" 03="0" 10="0" 11="1" 12="0" 13="0" 20="-0.751679" 21="0" 22="0.65953" 23="0" 30="4.013518" 31="19.00631" 32="162.940567" 33="1"/>
-			<size x="5" y="6" z="25"/>
+		<edit_area id="train_edit" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="0" is_static="false" default_vehicle="" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
+			<transform 00="0.65953" 01="0" 02="0.751679" 03="0" 10="0" 11="1" 12="0" 13="0" 20="-0.751679" 21="0" 22="0.65953" 23="0" 30="-27" 31="19" 32="190" 33="1"/>
+			<size x="5" y="6" z="100"/>
 		</edit_area>
 		<edit_area id="edit1" parent_id="" purchase_interactable_id="" seasonal_flags="0" grid_size="1" is_static="true" default_vehicle="signal" spawned_static_vehicle_id="0" is_invisible_vehicle="false">
 			<transform 00="0.648501" 01="0" 02="0.761214" 03="0" 10="0" 11="1" 12="0" 13="0" 20="-0.761214" 21="0" 22="0.648501" 23="0" 30="-130.266022" 31="15.658844" 32="263.399658" 33="1"/>
