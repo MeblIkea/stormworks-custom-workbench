@@ -7,3 +7,5 @@ Before everything: It's better to clone your current tiles forlder (or you can g
 You have to go to `{stormworks-installation-folder}\rom\data\tiles`
 
 Replace the files in the folder with those I have made available (keep what I have not yet made available)
+
+<h2>You can use World View for have a good view of the world</h2>
